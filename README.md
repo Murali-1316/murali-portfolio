@@ -19,10 +19,6 @@ npm run dev
 
 Open http://localhost:3000.
 
-## Before you deploy
-
-Add your resume PDF to `/public/Muralidharan_Resume_Sept_2026.pdf`
-(or change `resumeHref` in `src/lib/data.ts` to match whatever you name it).
 
 ## Build
 
