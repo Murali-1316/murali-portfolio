@@ -27,7 +27,7 @@ export function Contact() {
           </a>
           <a href={profile.github} target="_blank" rel="noopener" className="inline-flex items-baseline gap-2.5 border-b border-transparent py-1.5 text-[15px] hover:border-teal">
             <span className="w-16 font-mono text-xs text-text-faint">GitHub</span>
-            github.com/Murali1316
+            github.com/Murali-1316
           </a>
           <a href="#top" className="inline-flex items-baseline gap-2.5 border-b border-transparent py-1.5 text-[15px] hover:border-teal">
             <span className="w-16 font-mono text-xs text-text-faint">Based</span>
