@@ -4,11 +4,11 @@ export const profile = {
   tagline: "Open to full-time roles · Chennai, India",
   role:
     "I build systems that see, decide, and act — from multi-object tracking research published at IEEE CVMI, to reinforcement-learning pipelines and the full-stack apps that put them in front of people.",
-  meta: ["B.Tech CSE · VIT Chennai · 2026", "github.com/Murali1316", "muralimohan1316@gmail.com"],
+  meta: ["B.Tech CSE · VIT Chennai · 2026", "github.com/Murali-1316", "muralimohan1316@gmail.com"],
   email: "muralimohan1316@gmail.com",
   phone: "+91 89253 66609",
   phoneHref: "tel:+918925366609",
-  github: "https://github.com/Murali1316",
+  github: "https://github.com/Murali-1316",
   resumeHref: "/Muralidharan_Resume_Sept_2026.pdf",
   location: "Chennai, Tamil Nadu, India",
 };
